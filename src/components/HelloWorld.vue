@@ -29,7 +29,7 @@ export default {
 justify-content: space-between;
 height: 260px;
 width: 165px;
-background-color: #ccc;
+background-color: #eee;
 margin: 5px;
 }
 .content img {
